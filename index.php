@@ -1,6 +1,7 @@
 <?php
 require_once "../config.php";
 
+
 // The Tsugi PHP API Documentation is available at:
 // http://do1.dr-chuck.com/tsugi/phpdoc/
 
